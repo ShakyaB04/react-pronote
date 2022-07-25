@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-pronote/static/css/main.62809fce.css",
+    "main.js": "/react-pronote/static/js/main.2ddc7f5c.js",
+    "index.html": "/react-pronote/index.html",
+    "main.62809fce.css.map": "/react-pronote/static/css/main.62809fce.css.map",
+    "main.2ddc7f5c.js.map": "/react-pronote/static/js/main.2ddc7f5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62809fce.css",
+    "static/js/main.2ddc7f5c.js"
+  ]
+}

@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(72, 72, 237);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    margin: auto;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    color: azure;
+}
+
+h3{
+    color: aliceblue;
+    font-weight: 100;
+    margin-bottom: 5px;
+}
+
+.input{
+    margin: 0 50px;
+}
+
+.output{
+    width: 50vw;
+}
+
+.input-text{
+    background-color: rgb(72, 72, 237);
+    border: 2px solid #141414a9;
+    width: 40vw;
+    height: 490px;
+    color: azure;
+    padding: 20px;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.output-text{
+    background-color: rgb(79, 77, 77);
+    height: 520px;
+    width: 35vw;
+    padding: 20px;
+    box-shadow: 4px 6px 6px #141414a9;
+    border-radius: 8px;
+}
